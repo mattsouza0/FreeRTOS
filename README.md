@@ -13,11 +13,10 @@ Parâmetros:
 Foram declarados quatro métodos, esses métodos controlam os movimentos básicos do robô em diferentes direções. O parâmetro pwm define a velocidade dos motores, sendo 0 o mínimo (parado) e 255 o máximo (velocidade total).
 
 Métodos:
-• paraFrente: Este método faz com que o robô se mova para frente, acionando
-ambos os motores na mesma direção.
-• paraTras: Este método faz com que o robô se mova para trás, acionando ambos
-os motores na direção oposta.
-• paraDireita: Este método faz com que o robô vire à direita, acionando o motor
-esquerdo enquanto mantém o motor direito parado.
-• paraEsquerda: Este método faz com que o robô vire à esquerda, acionando o
-motor direito enquanto mantém o motor esquerdo parado.
+• paraFrente: Este método faz com que o robô se mova para frente, acionando ambos os motores na mesma direção.
+
+• paraTras: Este método faz com que o robô se mova para trás, acionando ambos os motores na direção oposta.
+
+• paraDireita: Este método faz com que o robô vire à direita, acionando o motor esquerdo enquanto mantém o motor direito parado.
+
+• paraEsquerda: Este método faz com que o robô vire à esquerda, acionando o motor direito enquanto mantém o motor esquerdo parado.
