@@ -1,0 +1,9 @@
+# keyword for class Robot
+Robot KEYWORD1
+
+# Keyword for class functions
+paraFrente 		KEYWORD2
+void paraFrente 	KEYWORD2
+paraTras 		KEYWORD2
+paraEsquerda		KEYWORD2
+paraDireita 		KEYWORD2
